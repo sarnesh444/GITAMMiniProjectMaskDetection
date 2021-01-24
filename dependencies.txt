@@ -1,0 +1,6 @@
+keras 2.4.3
+tensorflow 2.4.0
+opencv 3.4.2
+numpy 1.19.4
+pillow 8.1.0
+pandas 1.2.0
